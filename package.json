@@ -1,0 +1,19 @@
+{
+  "name": "ytpl",
+  "version": "1.0.0",
+  "description": "a youtube pulling app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "chromedriver": "^2.33.0",
+    "path": "^0.12.7",
+    "querystring": "^0.2.0",
+    "selenium-webdriver": "^3.6.0",
+    "url-parse": "^1.1.9"
+  }
+}
